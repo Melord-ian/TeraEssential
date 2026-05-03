@@ -1,0 +1,15 @@
+{
+    "disableAutoUpdate": false,
+    "name": "Essentials",
+    "author": "TeraProxy / Caali / Pinkie Pie",
+    "description": "A tera-proxy module that automatically uses Nostrum/Battle Solution and Complete Crystalbind items whenever needed.",
+    "version": "2.3.1",
+    "options": {
+        "niceName": "Essentials",
+        "guiName": "Essentials",
+        "settingsVersion": 5,
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js"
+    },
+    "servers": ["https://raw.githubusercontent.com/tera-private-mods/essentials/master/"]
+}
